@@ -1,0 +1,8 @@
+{
+    "require": {
+        "web-token/jwt-framework": "^4.0",
+        "guzzlehttp/guzzle": "^7.9",
+        "web-token/jwt-library": "*",
+        "spomky-labs/aes-key-wrap": "^7.0"
+    }
+}
