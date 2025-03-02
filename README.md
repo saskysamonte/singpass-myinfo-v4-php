@@ -1,6 +1,9 @@
 # Singpass Myinfo v4 PHP
 This is the PHP version of the MyInfo demo app, originally built in Node.js, showcasing integration with SingPass and usage of the MyInfo API.
 
+```
+https://github.com/singpass/myinfo-demo-app-v4
+```
 
 ### Install Dependencies
 To install the necessary dependencies, navigate to the folder where the application was unzipped and run:
