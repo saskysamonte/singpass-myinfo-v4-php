@@ -58,7 +58,7 @@ After you authorize and receive a token from SingPass, the user information will
 - Encryption and Decryption: The SingPass API uses industry-standard encryption algorithms (like A256GCM for content encryption and A256KW for key encryption) to securely send user information. These encryption algorithms ensure that the information is only accessible to authorized parties.
 
 - Key Management: You will need to verify the signature and decrypt the payload using the right keys, which are managed through the JWK (JSON Web Key) system.
-- 
+  
 - PHP Libraries: The libraries (such as Jose\Component\Encryption) help with all of this by providing functionality for signing, verifying, and encrypting/decrypting data.
 
 ## Sample Screenshots
